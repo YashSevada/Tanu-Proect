@@ -164,7 +164,7 @@ export default function Dashboard() {
         <Container maxWidth="lg" className={classes.container}>
 
         <Button variant="contained" color="primary" href="/Tabs">
-        GoTo Tabs
+        Software Evaluation using ANN
       </Button>
           
           <Box pt={4}>

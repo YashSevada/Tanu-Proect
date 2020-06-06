@@ -12,6 +12,7 @@
     "axios": "^0.19.2",
     "jsonwebtoken": "^8.5.1",
     "material-table": "^1.57.2",
+    "material-ui-image": "^3.2.3",
     "moment": "^2.25.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
