@@ -13,7 +13,7 @@
   "author": "Yash Sevada",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "concurrently": "^5.1.0",
     "crypto-random-string": "^3.2.0",
     "dotenv": "^8.2.0",
